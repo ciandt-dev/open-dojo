@@ -1,1 +1,6 @@
 grunt/dojo_watcher_serial/node_modules
+
+# chef
+.vagrant
+chef/coleguinha/tmp
+
