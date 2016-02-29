@@ -4,3 +4,6 @@ grunt/dojo_watcher_serial/node_modules
 .vagrant
 chef/coleguinha/tmp
 
+#cucumber
+cucumber/servers_and_queue_consumer/servers/files
+

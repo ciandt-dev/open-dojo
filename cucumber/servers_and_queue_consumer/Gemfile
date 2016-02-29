@@ -1,0 +1,27 @@
+source 'https://rubygems.org'
+
+gem 'bundler'
+gem 'capybara'
+gem 'cucumber'
+gem 'dotenv'
+gem 'gherkin'
+gem 'her'
+gem 'httparty'
+gem 'httparty-cookies'
+gem 'poltergeist'
+gem 'pry'
+gem 'pry-meta'
+gem 'rake'
+gem 'rspec'
+gem 'selenium-webdriver', '2.48.1'
+gem 'chromedriver-helper'
+gem 'jsonpath'
+
+# for server and consumer example
+gem 'bunny'
+gem 'sinatra'
+
+# tdd
+gem 'guard'
+gem 'guard-cucumber'
+
